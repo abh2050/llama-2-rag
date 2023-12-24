@@ -1,7 +1,7 @@
 ![image](https://i.ytimg.com/vi/Z6sCl6abJj4/maxresdefault.jpg)
 
 ![image](https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/11/20/rag-arch.png)
-# README: RAG with LLaMa 13B Notebook
+# RAG with LLaMa 13B Notebook
 
 ## Overview
 This notebook demonstrates the integration and utilization of the open-source Llama-13b-chat model in Hugging Face transformers and LangChain. The focus is on showcasing the capabilities of the LLaMa 13B model for text generation, particularly within the Retrieval Augmented Generation (RAG) framework.
