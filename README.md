@@ -1,6 +1,17 @@
 ![image](https://i.ytimg.com/vi/Z6sCl6abJj4/maxresdefault.jpg)
 
 ![image](https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/11/20/rag-arch.png)
+![Python 3.10](https://img.shields.io/badge/Python-3.10-blue?style=flat&logo=python&logoColor=white&link=https://www.python.org/)
+![transformers 4.31.0](https://img.shields.io/badge/transformers-4.31.0-brightgreen?style=flat)
+![sentence-transformers 2.2.2](https://img.shields.io/badge/sentence_transformers-2.2.2-blue?style=flat)
+![pinecone-client 2.2.2](https://img.shields.io/badge/pinecone_client-2.2.2-red?style=flat)
+![datasets 2.14.0](https://img.shields.io/badge/datasets-2.14.0-yellow?style=flat)
+![accelerate 0.21.0](https://img.shields.io/badge/accelerate-0.21.0-9cf?style=flat)
+![einops 0.6.1](https://img.shields.io/badge/einops-0.6.1-lightgrey?style=flat)
+![langchain 0.0.240](https://img.shields.io/badge/langchain-0.0.240-orange?style=flat)
+![xformers 0.0.20](https://img.shields.io/badge/xformers-0.0.20-blueviolet?style=flat)
+![bitsandbytes 0.41.0](https://img.shields.io/badge/bitsandbytes-0.41.0-green?style=flat)
+
 # RAG with LLaMa 13B Notebook
 
 ## Overview
